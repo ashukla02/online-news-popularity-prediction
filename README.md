@@ -7,3 +7,4 @@
 3d-code displays bar plots for estimated coefficients as determined by [LASSO,ElasticNet,Ridge](./3d.ipynb)
 
 3e- code for misclassification error rate for various ML algorithms using [leave-one-out cross validation](./3e.ipynb)
+ 
